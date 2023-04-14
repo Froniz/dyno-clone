@@ -2,7 +2,7 @@
   "name": "Broover",
   "version": "2.0.0",
   "description": "An advanced Discord bot with a lot commands - for moderation, fun, NSFW and status.",
-  "author": "DHVIT",
+  "author": "froniz",
   "main": "node xp.js",
   "scripts": {
     "test": "node xp.js",
