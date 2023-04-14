@@ -37,7 +37,7 @@ module.exports = {
       .addField(`Shards:`, `1`, false)
       .addField(`🗓 Creation Date -`, `6th February 2021`, false)
       .addField(`Made With :`, `Node.js V12 And SQ Lite DataBase And Your Love`, false)
-      .addField(`:tools: Developers of This Bot -`, `Dhvit And E-E-3`, false)
+      .addField(`:tools: Developers of This Bot -`, `Froniz`, false)
       .addField(`⚙➡Prefix : `, `${prefix}`, false)
       .addField(`:chart_with_upwards_trend:Uptime:`, uptime.join(", "), false)
     message.channel.send(embed);
